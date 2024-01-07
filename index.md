@@ -1,12 +1,24 @@
-## Some personal side projects
-List of some of some side projects I have worked on in the past
+# Selected  personal side projects
+
+In my spare time I try to explore concepts of interest or develop models with the
+intention to stay relevant with developments in the field.
+
+These side projects can include a traditional data exploration exercise, the deployment
+of a simple model or investing time in reading papers and prototyping for a deeper 
+understanding of a concept of interest.
 
 ---
 
-### Exploration of various concepts  
+## Exploration of research-like concepts  
 
 [Playing with language model memorization](https://github.com/rcuevass/lang_model_mem_gpt2)
 
+Due to recent development and interest in LLMs, I got interested in potential implications
+of these models with respect to privacy. Specifically I explored the possibility of, given a pre-trained language model, 
+extracting data the model was trained on.
+
+This was motivated by research performed by Nicholas Carlini and colleagues. 
+The main references for this exploration can be found [here](https://github.com/rcuevass/lang_model_mem_gpt2/tree/main/references).
 
 <img src="images/llm_memorization.jpg?raw=true"/>
 
