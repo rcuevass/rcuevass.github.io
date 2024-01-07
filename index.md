@@ -25,6 +25,20 @@ The main references for this exploration can be found [here](https://github.com/
 [View code on GitHub](https://github.com/rcuevass/lang_model_mem_gpt2)
 
 ---
+
+## General coding
+
+[Mars rover challenge](https://github.com/rcuevass/Mars_rover_challenge)
+
+Repository capturing an implementation of the typical Mars rover challenge. Details of the challenge
+can be found in the [README](https://github.com/rcuevass/Mars_rover_challenge/blob/master/README.md) file 
+of the repo
+
+<img src="images/mars_rover.jpg?raw=true"/>
+
+[View code on GitHub](https://github.com/rcuevass/Mars_rover_challenge)
+
+---
 <!--
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
