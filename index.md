@@ -9,6 +9,19 @@ understanding of a concept of interest.
 
 ---
 
+## Basic MCP example  
+
+[Implementation of basic MCP server with Anthropic](https://github.com/rcuevass/MCP_server_example)
+
+Repository to exemplify the implementation of a basic MCP server. Current UI associated with the tool is currently
+implemented in python. Further iterations will incorporate Node.js
+
+<img src="images/MCP_Anthropic_ucb-c_analogy.jpg?raw=true"/>
+
+[View code on GitHub](https://github.com/rcuevass/MCP_server_example)
+
+---
+
 ## ArXiv Research Papers Chatbot  
 
 [Exploring chatbot implementations with Anthropic](https://github.com/rcuevass/chatbot_example_Anthropic)
