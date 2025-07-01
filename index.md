@@ -15,7 +15,11 @@ understanding of a concept of interest.
 
 Simple example to showcase chatbot capabilities to explore ArXiv papers by leveraging Anthropic LLMs
 
+<img src="images/anthropic_chatbot.jpg?raw=true"/>
+
 [View code on GitHub](https://github.com/rcuevass/chatbot_example_Anthropic)
+
+---
 
 ## Exploration of research-like concepts  
 
