@@ -9,6 +9,14 @@ understanding of a concept of interest.
 
 ---
 
+## ArXiv Research Papers Chatbot  
+
+[Exploring chatbot implementations with Anthropic](https://github.com/rcuevass/chatbot_example_Anthropic)
+
+Simple example to showcase chatbot capabilities to explore ArXiv papers by leveraging Anthropic LLMs
+
+[View code on GitHub](https://github.com/rcuevass/chatbot_example_Anthropic)
+
 ## Exploration of research-like concepts  
 
 [Playing with language model memorization](https://github.com/rcuevass/lang_model_mem_gpt2)
