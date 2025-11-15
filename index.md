@@ -22,6 +22,22 @@ implemented in python. Further iterations will incorporate Node.js
 
 ---
 
+## Mockup streamlit app - Mortgage calculator  
+
+[Implementation of basic app to show streamlit capabilities](https://github.com/rcuevass/Demo-streamlit-101)
+
+Repository to exemplify the implementation of a basic Streamlit app. This is just a mockup mortgage calculator and
+should not be considered as a reliable source of information for financial decisioning. Current UI is available
+[**here**](https://mockup-mortgage-calculator.streamlit.app/) 
+via Streamlit Community Cloud
+
+<img src="images/mortgage_calculator.jpg?raw=true"/>
+
+[View code on GitHub](https://github.com/rcuevass/Demo-streamlit-101)
+
+
+---
+
 ## ArXiv Research Papers Chatbot  
 
 [Exploring chatbot implementations with Anthropic](https://github.com/rcuevass/chatbot_example_Anthropic)
