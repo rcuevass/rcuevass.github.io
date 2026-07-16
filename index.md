@@ -9,9 +9,9 @@ understanding of a concept of interest.
 
 ---
 
-## Claude & Amazaon Bedrock Exploration  
+## Claude & Amazon Bedrock exploration  
 
-[Exploration and comparison of Claude API and Amazaon Bedrock](https://github.com/rcuevass/Claude-API-AWS-Development)
+[Exploration and comparison of Claude API and Amazon Bedrock](https://github.com/rcuevass/Claude-API-AWS-Development)
 
 Repository to show basic and advanced capabilities of Amazon Bedrock and Claude via API calls
 
