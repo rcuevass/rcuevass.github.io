@@ -9,6 +9,19 @@ understanding of a concept of interest.
 
 ---
 
+## Claude & Amazaon Bedrock Exploration  
+
+[Exploration and comparison of Claude API and Amazaon Bedrock](https://github.com/rcuevass/Claude-API-AWS-Development)
+
+Repository to show basic and advanced capabilities of Amazon Bedrock and Claude via API calls
+
+<img src="images/claude_amazon_bedrock.jpg?raw=true"/>
+
+[View code on GitHub](https://github.com/rcuevass/Claude-API-AWS-Development)
+
+
+---
+
 ## Basic MCP example  
 
 [Implementation of basic MCP server with Anthropic](https://github.com/rcuevass/MCP_server_example)
